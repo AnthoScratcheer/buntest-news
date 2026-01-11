@@ -1,0 +1,16 @@
+{
+  "tests": [
+    {
+      "id": 1,
+      "titulo": "Test de Matemática",
+      "descripcion": "Operaciones básicas",
+      "preguntas": 10
+    },
+    {
+      "id": 2,
+      "titulo": "Test de Comunicación",
+      "descripcion": "Comprensión lectora",
+      "preguntas": 8
+    }
+  ]
+}
